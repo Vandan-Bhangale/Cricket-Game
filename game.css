@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-weight: 700;
+    font-size: larger;
+}
+.choice-Image {
+    height: 75px;
+}
+.choice-button {
+    height: 100px;
+    width: 100px;
+    border: none;
+    border-radius: 50%;
+    background-color: rgb(158, 240, 175);
+    margin: 10px;
+    cursor: pointer;
+}
+.score {
+    margin-top: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
